@@ -1,0 +1,14 @@
+.module-grid::after {
+    content: '';
+    display: block;
+    clear: both;
+    height: 0
+}
+.module-grid__cell-1 {
+    float: left;
+    width: 50%
+}
+module-grid__cell-2 {
+    float: left;
+    width: 100%
+}

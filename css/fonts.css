@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Arial;
+    src: url(../fonts/arial-regular.woff2) format('woff2'),
+         url(../fonts/arial-regular.woff) format('woff');
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal
+}
+@font-face {
+    font-family: EuropeExt;
+    src: url(../fonts/europe-ext-normal-regular.woff2) format('woff2'),
+         url(../fonts/europe-ext-normal-regular.woff) format('woff');
+    font-display: swap;
+    font-style: normal;
+    font-weight: normal
+}
+@font-face {
+    font-family: EuropeExt;
+    src: url(../fonts/europe-ext-bold.woff2) format('woff2'),
+         url(../fonts/europe-ext-bold.woff) format('woff');
+    font-display: swap;
+    font-style: normal;
+    font-weight: bold
+}
